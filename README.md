@@ -106,7 +106,7 @@ Example3: Filter by first name LIKE "mustafa"
 ```
 
 
-Example4: Filter by first name LIKE "mustafa"
+Example4: Combining criteria. Filter by first name LIKE "mustafa" and birth year less than 1980
 ```json
 
 {
